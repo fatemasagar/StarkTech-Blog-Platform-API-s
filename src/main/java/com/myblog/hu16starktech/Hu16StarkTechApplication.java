@@ -1,13 +1,15 @@
-package com.blog.starktechblogserver;
+package com.hashedin.hu16starktech;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StarktechBlogServerApplication {
+public class Hu16StarkTechApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StarktechBlogServerApplication.class, args);
+		SpringApplication.run(Hu16StarkTechApplication.class, args);
 	}
+
+
 
 }
